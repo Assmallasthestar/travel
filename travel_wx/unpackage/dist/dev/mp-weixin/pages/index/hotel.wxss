@@ -1,0 +1,80 @@
+@charset "UTF-8";
+/* 需要放到文件最上面 */
+/* 水平间距 */
+/* 水平间距 */
+/*
+ 以下变量是默认值，如不需要修改可以不用给下面的变量重新赋值
+ */
+/* 水平间距 */
+.container.data-v-14795264 {
+  font-size: 14rpx;
+  line-height: 24rpx;
+}
+.recommend-item.data-v-14795264 {
+  margin: 10rpx;
+  background-color: #fff;
+  height: 300rpx;
+  box-shadow: 0 0 5px #9d9d9d;
+  border-radius: 10rpx;
+  display: flex;
+}
+.recommend-item .left_img.data-v-14795264 {
+  height: 300rpx;
+  width: 400rpx;
+}
+.recommend-item .left_img .recommend_img.data-v-14795264 {
+  height: 300rpx;
+  width: 400rpx;
+  font-size: 50rpx;
+  font-weight: bolder;
+  text-align: center;
+  line-height: 300rpx;
+  color: grey;
+}
+.recommend-item .middle_other.data-v-14795264 {
+  text-align: center;
+  margin-top: 30rpx;
+}
+.recommend-item .middle_other .name.data-v-14795264 {
+  font-weight: bolder;
+  font-size: 40rpx;
+  line-height: 40rpx;
+  width: 200rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.recommend-item .middle_other .desc.data-v-14795264 {
+  height: 170rpx;
+  padding: 5rpx 15rpx;
+}
+.recommend-item .mark_img.data-v-14795264 {
+  height: 80rpx;
+  width: 80rpx;
+  line-height: 100rpx;
+  border: 1px solid grey;
+  box-shadow: 0 0 5px #9d9d9d;
+  border-radius: 30%;
+  margin-top: 110rpx;
+}
+.popup-content.data-v-14795264 {
+  height: 300rpx;
+  width: 600rpx;
+}
+.popup-content .ratetext.data-v-14795264 {
+  font-size: 30rpx;
+  color: #1296db;
+  text-align: center;
+  padding: 50rpx 0;
+  padding-bottom: 30rpx;
+}
+.popup-content .rate.data-v-14795264 {
+  margin: 0 150rpx;
+  margin-bottom: 30rpx;
+}
+.popup-content button.data-v-14795264 {
+  margin: 0 30rpx;
+  color: #fff;
+  background-color: #1296db;
+}
+

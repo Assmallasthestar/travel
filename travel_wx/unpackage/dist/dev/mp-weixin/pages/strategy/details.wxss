@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* 需要放到文件最上面 */
+/* 水平间距 */
+/* 水平间距 */
+/*
+ 以下变量是默认值，如不需要修改可以不用给下面的变量重新赋值
+ */
+/* 水平间距 */
+.detail-box.data-v-67552dc2 {
+  margin: 10rpx 0rpx;
+}
+.bottom-tarbar.data-v-67552dc2 {
+  height: 100rpx;
+  background-color: white;
+  width: 100%;
+  position: fixed;
+  bottom: calc( 0px);
+  z-index: 1030;
+  display: flex;
+}
+.bottom-tarbar .comment.data-v-67552dc2 {
+  width: 45%;
+  margin-left: 30rpx;
+}
+.bottom-tarbar .right-icon.data-v-67552dc2 {
+  display: flex;
+  margin: 30rpx 15rpx;
+}
+.bottom-tarbar .right-icon .icon.data-v-67552dc2 {
+  margin: 0 30rpx;
+  flex: 2 1 auto;
+}
+.popup-content.data-v-67552dc2 {
+  margin: 10rpx 30rpx;
+}
+.popup-content button.data-v-67552dc2 {
+  margin-top: 20rpx;
+  background-color: #1296db;
+  color: white;
+}
+.strategy-title.data-v-67552dc2 {
+  font-size: 60rpx;
+  font-weight: bolder;
+  width: 100%;
+}
+.strategy-desc.data-v-67552dc2 {
+  font-size: 30rpx;
+  color: grey;
+  width: 100%;
+}
+.detail-info.data-v-67552dc2 {
+  margin-bottom: 30rpx;
+}
+.comment-area.data-v-67552dc2 {
+  margin: 30rpx 30rpx;
+}
+.comment-area .userInfo.data-v-67552dc2 {
+  display: flex;
+  margin: 30rpx 0;
+}
+.comment-area .userInfo .user-icon.data-v-67552dc2 {
+  width: 60rpx;
+  height: 60rpx;
+  background-color: #F0F8FF;
+  margin: 0 30rpx;
+}
+.comment-area .userInfo .user-info.data-v-67552dc2 {
+  color: black;
+  font-size: 35rpx;
+  line-height: 60rpx;
+  text-align: center;
+  height: 60rpx;
+}
+.comment-area .userInfo .delete.data-v-67552dc2 {
+  margin-left: auto;
+}
+.comment-area .comment-content.data-v-67552dc2 {
+  margin: 30rpx 0;
+  margin-left: 120rpx;
+  font-size: 30rpx;
+  line-height: 30rpx;
+}
+.tarbarheight.data-v-67552dc2 {
+  height: 105rpx;
+}
+

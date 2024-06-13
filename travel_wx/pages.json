@@ -1,0 +1,154 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationStyle": "custom"
+		}
+	},
+	{
+		"path": "pages/strategy/strategy",
+		"style": {
+			"navigationStyle": "custom"
+		}
+	},
+	{
+		"path": "pages/user/user",
+		"style": {
+			"navigationStyle": "custom"
+		}
+	},
+	{
+		"path": "pages/index/food",
+		"style": {
+			"navigationBarTitleText": "美食"
+		}
+	},
+	{
+		"path": "pages/index/spot",
+		"style": {
+			"navigationBarTitleText": "景点"
+		}
+	},
+	{
+		"path": "pages/index/hotel",
+		"style": {
+			"navigationBarTitleText": "住宿"
+		}
+	},
+	{
+		"path": "pages/strategy/details",
+		"style": {
+			"navigationBarTitleText": "攻略详情",
+			"enablePullDownRefresh": true
+		}
+	},
+	{
+		"path": "pages/user/login",
+		"style": {
+			"navigationBarTitleText": "登录"
+		}
+	},
+	{
+		"path": "pages/user/set",
+		"style": {
+			"navigationBarTitleText": "设置"
+		}
+	},
+	{
+		"path": "pages/user/update/nick_name",
+		"style": {
+			"navigationBarTitleText": "修改昵称"
+		}
+	},
+	{
+		"path": "pages/user/update/email",
+		"style": {
+			"navigationBarTitleText": "修改邮箱"
+		}
+	},
+	{
+		"path": "pages/user/update/gender",
+		"style": {
+			"navigationBarTitleText": "修改性别"
+		}
+	},
+	{
+		"path": "pages/user/update/password",
+		"style": {
+			"navigationBarTitleText": "修改密码"
+		}
+	},
+	{
+		"path": "pages/user/feedback",
+		"style": {
+			"navigationBarTitleText": "问题反馈"
+		}
+	},
+	{
+		"path": "pages/strategy/create_strategy",
+		"style": {
+			"navigationBarTitleText": "创建攻略"
+		}
+	},
+	{
+		"path": "pages/index/search",
+		"style": {
+			"navigationBarTitleText": "搜索"
+		}
+	},
+	{
+		"path": "pages/user/my/myclloct",
+		"style": {
+			"navigationBarTitleText": "我的收藏"
+		}
+	},
+	{
+		"path": "pages/user/my/myrecommend",
+		"style": {
+			"navigationBarTitleText": "我的推荐"
+		}
+	},
+	{
+		"path": "pages/user/my/mystrategy",
+		"style": {
+			"navigationBarTitleText": "我的攻略"
+		}
+	}],
+	// 全局样式配置
+	"globalStyle": {
+		// 顶部导航栏文字颜色
+		"navigationBarTextStyle": "white",
+		// 顶部导航栏文字标题
+		"navigationBarTitleText": "旅游",
+		// 顶部导航栏的背景颜色
+		"navigationBarBackgroundColor": "#1296db",
+		// 页面背景颜色
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	// 底部菜单的配置
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#1296db",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"iconPath": "static/tabbar_icon/recommend_unselected.png",
+			"selectedIconPath": "static/tabbar_icon/recommend_selected.png",
+			"text": "推荐"
+		}, {
+			"pagePath": "pages/strategy/strategy",
+			"iconPath": "static/tabbar_icon/strategy_unselected.png",
+			"selectedIconPath": "static/tabbar_icon/strategy_selected.png",
+			"text": "攻略"
+		}, {
+			"pagePath": "pages/user/user",
+			"iconPath": "static/tabbar_icon/my_unseleted.png",
+			"selectedIconPath": "static/tabbar_icon/my_selected.png",
+			"text": "我的"
+		}]
+	}
+}

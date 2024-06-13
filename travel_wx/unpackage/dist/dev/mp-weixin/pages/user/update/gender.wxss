@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* 需要放到文件最上面 */
+/* 水平间距 */
+/* 水平间距 */
+/*
+ 以下变量是默认值，如不需要修改可以不用给下面的变量重新赋值
+ */
+/* 水平间距 */
+.box.data-v-1e395388 {
+  height: 100rpx;
+  line-height: 100rpx;
+  border: 1rpx solid 	#B0C4DE;
+}
+.submit.data-v-1e395388 {
+  margin: 0 20rpx;
+  margin-top: 30rpx;
+  color: white;
+  background-color: #1296db;
+}
+

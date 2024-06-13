@@ -1,0 +1,100 @@
+@charset "UTF-8";
+/* 需要放到文件最上面 */
+/* 水平间距 */
+/* 水平间距 */
+/*
+ 以下变量是默认值，如不需要修改可以不用给下面的变量重新赋值
+ */
+/* 水平间距 */
+.search.data-v-64d2b7fe {
+  display: flex;
+  margin-top: 30rpx;
+  margin-bottom: 20rpx;
+  height: 80rpx;
+}
+.search .searchcol.data-v-64d2b7fe {
+  width: 80%;
+  border: 2rpx solid #1296db;
+  border-radius: 30rpx;
+  margin-left: 3%;
+  display: flex;
+}
+.search .searchcol .searchbox.data-v-64d2b7fe {
+  font-size: 40rpx;
+  height: 70rpx;
+  padding-left: 30rpx;
+}
+.search .searchtext.data-v-64d2b7fe {
+  color: #1296db;
+  font-size: 40rpx;
+  margin-left: 25rpx;
+  line-height: 80rpx;
+}
+.recommend-item.data-v-64d2b7fe {
+  margin: 10rpx;
+  background-color: #fff;
+  height: 300rpx;
+  box-shadow: 0 0 5px #9d9d9d;
+  border-radius: 10rpx;
+  display: flex;
+}
+.recommend-item .left_img.data-v-64d2b7fe {
+  height: 300rpx;
+  width: 400rpx;
+}
+.recommend-item .left_img .recommend_img.data-v-64d2b7fe {
+  height: 300rpx;
+  width: 400rpx;
+  font-size: 50rpx;
+  font-weight: bolder;
+  text-align: center;
+  line-height: 300rpx;
+  color: grey;
+}
+.recommend-item .middle_other.data-v-64d2b7fe {
+  text-align: center;
+  margin-top: 30rpx;
+}
+.recommend-item .middle_other .name.data-v-64d2b7fe {
+  font-weight: bolder;
+  font-size: 40rpx;
+  line-height: 40rpx;
+  width: 200rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.recommend-item .middle_other .desc.data-v-64d2b7fe {
+  height: 170rpx;
+  padding: 5rpx 15rpx;
+}
+.recommend-item .mark_img.data-v-64d2b7fe {
+  height: 80rpx;
+  width: 80rpx;
+  line-height: 100rpx;
+  border: 1px solid grey;
+  box-shadow: 0 0 5px #9d9d9d;
+  border-radius: 30%;
+  margin-top: 110rpx;
+}
+.popup-content.data-v-64d2b7fe {
+  height: 300rpx;
+  width: 600rpx;
+}
+.popup-content .ratetext.data-v-64d2b7fe {
+  font-size: 30rpx;
+  color: #1296db;
+  text-align: center;
+  padding: 50rpx 0;
+  padding-bottom: 30rpx;
+}
+.popup-content .rate.data-v-64d2b7fe {
+  margin: 0 150rpx;
+  margin-bottom: 30rpx;
+}
+.popup-content button.data-v-64d2b7fe {
+  margin: 0 30rpx;
+  color: #fff;
+  background-color: #1296db;
+}
+

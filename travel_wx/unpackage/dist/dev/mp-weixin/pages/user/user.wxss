@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* 需要放到文件最上面 */
+/* 水平间距 */
+/* 水平间距 */
+/*
+ 以下变量是默认值，如不需要修改可以不用给下面的变量重新赋值
+ */
+/* 水平间距 */
+.status_bar.data-v-80842834 {
+  height: 25px;
+  background-color: #1296db;
+  width: 100%;
+}
+.top_bj.data-v-80842834 {
+  height: 400rpx;
+  background-color: #1296db;
+  display: flex;
+  align-items: center;
+}
+.top_bj .user-pic.data-v-80842834 {
+  width: 150rpx;
+  height: 150rpx;
+  border-radius: 50%;
+  background-color: #F0F8FF;
+  margin: 0 50rpx;
+  line-height: 150rpx;
+  text-align: center;
+  overflow: hidden;
+}
+.top_bj .user-pic .user-icon.data-v-80842834 {
+  width: 150rpx;
+  height: 150rpx;
+}
+.top_bj .user-info.data-v-80842834 {
+  flex: 1;
+  color: #fff;
+  font-size: 35rpx;
+}
+.camber.data-v-80842834 {
+  height: 100rpx;
+  margin-top: -50rpx;
+  background-color: #1296db;
+  border-radius: 0 0 50% 50%;
+  margin-bottom: 30rpx;
+}
+.menu-box.data-v-80842834 {
+  background-color: #fff;
+  margin: 5rpx 20rpx;
+}
+

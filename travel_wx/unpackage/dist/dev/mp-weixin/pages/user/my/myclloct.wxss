@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* 需要放到文件最上面 */
+/* 水平间距 */
+/* 水平间距 */
+/*
+ 以下变量是默认值，如不需要修改可以不用给下面的变量重新赋值
+ */
+/* 水平间距 */
+.strategy-item.data-v-4de7ef01 {
+  margin: 10rpx;
+  background-color: #fff;
+  height: 300rpx;
+  box-shadow: 0 0 5px #9d9d9d;
+  border-radius: 10rpx;
+  display: flex;
+}
+.strategy-item .left_img.data-v-4de7ef01 {
+  height: 300rpx;
+  width: 400rpx;
+}
+.strategy-item .left_img .recommend_img.data-v-4de7ef01 {
+  height: 300rpx;
+  width: 400rpx;
+  font-size: 50rpx;
+  font-weight: bolder;
+  text-align: center;
+  line-height: 300rpx;
+  color: grey;
+}
+.strategy-item .middle_other.data-v-4de7ef01 {
+  text-align: center;
+  margin-top: 30rpx;
+}
+.strategy-item .middle_other .name.data-v-4de7ef01 {
+  font-weight: bolder;
+  font-size: 40rpx;
+}
+.strategy-item .middle_other .desc.data-v-4de7ef01 {
+  height: 170rpx;
+  padding: 15rpx 15rpx;
+}
+
